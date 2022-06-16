@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -37,7 +38,7 @@ NOTES
 Introduction.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/1_lecture_1))
+({{% resource_link 576883e0-4d9d-41d8-79b2-91dc0a02bc29 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +50,7 @@ Introduction.
 _Coors_. Harvard Business School Case #9-388-014.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/2_inclass_2002_02_10))
+({{% resource_link 23031176-a7e6-f989-1dd7-b30b7e8091b7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ _Coors_. Harvard Business School Case #9-388-014.
 _Prelude_. Harvard Business School Case #9-373-052.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/3_inclass_2002_02))
+({{% resource_link b5a7f3cc-7667-7d42-2904-7bc55707601c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +92,7 @@ _The Walt Disney Company: The Entertainment King_. Harvard Business School Case 
 _Nintendo & Sega_. Harvard Business School Cases #9-795-102 & 9-795-103.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_inclass_2002_02_19))
+({{% resource_link a04f3a89-148e-ca29-1ae8-b44f603dc600 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +104,7 @@ _Nintendo & Sega_. Harvard Business School Cases #9-795-102 & 9-795-103.
 _Browser Wars_. Harvard Business School Case #9-798-094.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/6_inclass_2003_02_24))
+({{% resource_link 5c795b74-b6ee-7010-7eb1-67ea84d75652 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +134,7 @@ Wernerfelt, Birger. "An Efficiency Criterion for Marketing Design."
 _EMI and the CT-scanner (A)_. Harvard Business School Case #9-383-194.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/8_inclass_2003_03_03))
+({{% resource_link 99da8cee-1db0-3dc8-5f21-92dff619c655 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +146,7 @@ _EMI and the CT-scanner (A)_. Harvard Business School Case #9-383-194.
 _Nutrasweet (A-G)_. Harvard Business School Cases #9-794-079,…,085 (B-G given out in class).
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/9_inclass_2003_03_05))
+({{% resource_link 05b1c176-d299-8a1b-67a7-53a42e284fa0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +158,7 @@ _Nutrasweet (A-G)_. Harvard Business School Cases #9-794-079,…,085 (B-G given 
 _Flightsafety (A-B)_. Harvard Business School Cases #9-799-113 & 9-799-114 (B given out in class).
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/10_inclass_2003_03_10))
+({{% resource_link 18039381-bfa1-3c96-7f06-3836756e6690 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +170,7 @@ _Flightsafety (A-B)_. Harvard Business School Cases #9-799-113 & 9-799-114 (B gi
 _Wal-Mart Stores, Inc_. Harvard Business School Case #9-794-024.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/11_inclass_2003_03_12))
+({{% resource_link c0e13287-3344-35e2-cec1-8553bda0bf2e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +194,7 @@ Mid-term Exam.
 _Marks and Spencer_. Harvard Business School Cases #9-391-089 and 9-391-090.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/13_inclass_2003_03_31))
+({{% resource_link 61349810-586a-f626-6871-a2daf42f2816 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,8 +224,8 @@ Collis and Montgomery. "Resources and Rents."
 _Southwest Airlines (A)_. Harvard Business School Case #9-575-060.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF1]({{< baseurl >}}/resources/15a_inclass_2003_04_07))  
-([PDF2]({{< baseurl >}}/resources/15b_inclass_2003_04_071))
+({{% resource_link 525e5121-7878-a09d-0244-d09d1c393ee2 "PDF1" %}})  
+({{% resource_link 8a12fad8-9b10-99ec-c5da-1253d015dd1f "PDF2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,8 +237,8 @@ _Southwest Airlines (A)_. Harvard Business School Case #9-575-060.
 _Head Ski_. Harvard Business School Case #6-313-120.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF1]({{< baseurl >}}/resources/16a_lecture_16))  
-([PDF2]({{< baseurl >}}/resources/16b_inclass_2003_04_091))
+({{% resource_link 61037ade-727c-5c3b-e298-f3f15625cf6a "PDF1" %}})  
+({{% resource_link dc2faab5-21e8-43d9-3521-7c2fe66dd816 "PDF2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +250,7 @@ _Head Ski_. Harvard Business School Case #6-313-120.
 Complaint Letters.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/17a_inclass_2003_04_14))
+({{% resource_link b3349cf0-1a9d-34c5-05d8-6373cca300d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +262,7 @@ Complaint Letters.
 _SAS (A)_. Harvard Business School Case #593-001-1.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/18_inclass_2003_04_16))
+({{% resource_link 27f8a7e3-e02d-a021-2bd6-32c1653b39fb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +274,7 @@ _SAS (A)_. Harvard Business School Case #593-001-1.
 _Fox_. Harvard Business School Case #9-387-096.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/19_inclass_2003_04_23))
+({{% resource_link 7fbc7de7-46d1-bd11-b8bd-bbb6cb904c36 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -285,7 +286,7 @@ _Fox_. Harvard Business School Case #9-387-096.
 _E-trade_. Stanford Case #M-286.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/20_inclass_2003_04_28))
+({{% resource_link 6477e906-d705-cde8-8bc5-90f76e38efcd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -315,7 +316,7 @@ Collis and Montgomery. "Creating Corporate Advantage." _Harvard Business Review_
 _Costco Companies_. Harvard Business School Case #9-599-041.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/22_inclass_2003_05_05))
+({{% resource_link 400f0753-3995-6671-b53c-654f952f6b94 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -327,7 +328,7 @@ _Costco Companies_. Harvard Business School Case #9-599-041.
 _Newell_. Harvard Business School Case #N9-799-139.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/23_inclass2003_05_071))
+({{% resource_link 103300dc-cfb2-cef9-6642-20125b7b07ec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
