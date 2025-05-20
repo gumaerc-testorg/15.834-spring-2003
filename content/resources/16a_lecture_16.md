@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to lifetime cost minimization
   and factor's affecting head's attack.
-file: /ol-ocw-studio-app/courses/15-834-marketing-strategy-spring-2003/61037ade727c5c3be298f3f15625cf6a_16a_lecture_16.pdf
+file: /courses/15-834-marketing-strategy-spring-2003/61037ade727c5c3be298f3f15625cf6a_16a_lecture_16.pdf
 file_size: 30723
 file_type: application/pdf
 learning_resource_types:
